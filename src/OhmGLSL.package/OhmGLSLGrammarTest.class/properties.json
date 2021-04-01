@@ -1,0 +1,14 @@
+{
+	"category" : "OhmGLSL-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OhmGLSLGrammarTest",
+	"pools" : [
+		 ],
+	"super" : "OhmSyntaxTestCase",
+	"type" : "normal" }
